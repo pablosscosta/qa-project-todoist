@@ -34,3 +34,9 @@
 * Uma pop-up informando sobre a verificação de e-mail deve aparecer.
 * Um e-mail de verificação deve ser enviado para o endereço fornecido.
 * Após a verificação do e-mail, o pop-up deve desaparecer e o usuário deve ter acesso completo à dashboard.
+
+### Status de Execução:
+* **Data da Execução:** 28/07/2025
+* **Testador:** Pablo Costa
+* **Resultado:** PASSED
+* **Observações:** Cadastro concluído e e-mail verificado com sucesso.
