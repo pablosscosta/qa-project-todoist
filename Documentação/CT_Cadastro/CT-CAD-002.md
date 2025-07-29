@@ -18,3 +18,9 @@
 ### Resultado Esperado:
 * O sistema deve exibir a mensagem de erro: "Ah, não, este endereço de e-mail está indisponível! Tente com outro."
 * O usuário deve permanecer na mesma página de cadastro, sem ser redirecionado para a próxima etapa ou para a dashboard.
+
+### Status de Execução:
+* **Data da Execução:** 29/07/2025
+* **Testador:** Pablo Costa
+* **Resultado:** PASSED
+* **Observações:** Sistema não permitiu cadastro com e-mail cadastrado anteriormente e mostro uma mensagem de erro.
